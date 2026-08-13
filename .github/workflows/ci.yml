@@ -4,9 +4,13 @@ on:
   push:
     branches:
       - master
+      - 'a01/**'
   pull_request:
     branches:
       - master
+
+permissions:
+  contents: read
 
 jobs:
   test:
@@ -28,5 +32,11 @@ jobs:
       - name: Lint
         run: npm run lint
 
-      - name: Test
+      - name: Upstream regression tests
         run: npm test
+
+      - name: JamFruit Safe Mode regression tests
+        run: node test-safe-mode.js
+
+      - name: JamFruit repository guard checks
+        run: node scripts/security-check.js
