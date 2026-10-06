@@ -36,13 +36,13 @@ Primary controlling records:
 
 ### Pilot characters
 Only these five principal pilot characters are in scope unless a later approved decision changes the boundary:
-1. Julie Mango
-2. East Indian Mango
-3. Ackee
-4. Guinep
-5. Soursop
+1. Julie Mango — female
+2. East Indian Mango — female
+3. Ackee — male
+4. Guinep — female
+5. Soursop — male
 
-All five have reached FINAL CANON status in the design program. Do not redesign or replace them from text prompts when exact canon references are required.
+All five have reached FINAL CANON status in the design program. Canon gender presentation is **3 female / 2 male**: Julie female, East Indian female, Guinep female; Ackee male, Soursop male. Do not redesign or replace them from text prompts when exact canon references are required.
 
 ### Pilot locations
 The three approved pilot locations are:
