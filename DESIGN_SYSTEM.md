@@ -70,6 +70,8 @@ Gate D continuity:
 
 ### Ackee
 
+Canon gender presentation: **male**.
+
 Production read:
 - opened-pod/ackee anatomy must read clearly
 - mature, grounded authority
@@ -82,6 +84,8 @@ Gate D continuity:
 - restrained intervention energy
 
 ### Guinep
+
+Canon gender presentation: **female**.
 
 This character has an explicit corrected canon rule.
 
@@ -103,6 +107,8 @@ Prohibited:
 Gate D final direction uses the corrected Guinep literal reference and is the production precedent.
 
 ### Soursop
+
+Canon gender presentation: **male**.
 
 Production read:
 - broad, grounded silhouette
